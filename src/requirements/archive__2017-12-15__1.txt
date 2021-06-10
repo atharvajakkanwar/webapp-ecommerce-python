@@ -3,7 +3,7 @@ cfe==0.0.15
 chardet==3.0.4
 dj-database-url==0.4.2
 django-csvimport==2.11
-Django==2.0
+Django==2.2.24
 gunicorn==19.7.1
 idna==2.6
 olefile==0.44
